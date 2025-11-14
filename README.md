@@ -3,8 +3,6 @@ A collection of geometric drawings (and not only) built with Escola 42's MiniLib
 
 ## how to compile
 
-## how to compile
-
 Use the build script:
 
     $ ./build.sh folder_name/main.c
