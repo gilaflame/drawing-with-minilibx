@@ -1,2 +1,2 @@
 # drawing-with-minilibx
-A collection of geometric drawings built with the MiniLibX library from School 42, organized in simple, didactic examples for beginners like me
+A collection of geometric drawings (and not only) built with Escola 42's MiniLibX library, organized into simple and didactic examples for beginners like me
